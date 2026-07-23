@@ -242,19 +242,9 @@ nav ul li a:hover,
 footer{
     background:#0a0f43;
     color:#fff;
-}
-.footer-top{
-    width:90%;
-    margin:auto;
-    display:flex;
-    justify-content:space-between;
-    align-items:center;
-    padding:70px 0;
-    flex-wrap:wrap;
-}
-.footer-box{
     text-align:center;
 }
+
 .icon{
     width:80px;
     height:80px;
